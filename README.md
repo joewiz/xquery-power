@@ -7,6 +7,8 @@ Let's show the world where XQuery is used. Pull requests welcome. Please keep th
 - [eXist-db homepage](http://exist-db.org/): product homepage, documentation, demos. Runs on eXist-db.
 - [MarkMail](http://markmail.org/): search mailing lists. Runs on Mark Logic.
 - [Office of the Historian](https://history.state.gov): browse and search resources on the history of U.S. foreign relations. Runs on eXist-db.
+- [The Syriac Gazetteer](http://syriaca.org/geo/index.html): The Syriac Gazetteer is a geographical reference work of Syriaca.org for places relevant to Syriac studies. Runs on eXist-db.
+- [Theological Commons](http://commons.ptsem.edu/): The Theological Commons is a digital library of over 80,000 resources on theology and religion. Runs on MarkLogic.
 
 ## These sites use XQuery only behind the scenes
 
