@@ -9,9 +9,10 @@ Let's show the world where XQuery is used. Pull requests welcome. Please keep th
 - [Office of the Historian](https://history.state.gov): browse and search resources on the history of U.S. foreign relations. Runs on eXist-db.
 - [The Syriac Gazetteer](http://syriaca.org/geo/index.html): The Syriac Gazetteer is a geographical reference work of Syriaca.org for places relevant to Syriac studies. Runs on eXist-db.
 - [Theological Commons](http://commons.ptsem.edu/): The Theological Commons is a digital library of over 80,000 resources on theology and religion. Runs on MarkLogic.
+- [UVM Center for Digital Initiatives] (http://cdi.uvm.edu/collections/index.xql) : makes unique research collections available online from UVM collections. Runs on eXist-db.
 
 ## These sites use XQuery only behind the scenes
 
 For example, in the preparation of materials...
 
-- You can be the first
+- [MARC to BIBFRAME Transformation Service] (http://bibframe.org/tools/transform/start) : Transforms MARCXML to BIBFRAME representation. git repository : [https://github.com/lcnetdev/marc2bibframe] 
