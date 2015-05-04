@@ -2,10 +2,7 @@
 
 Let's show the world where XQuery is used. Pull requests welcome. Please keep the lists alphabetized. 
 
-Also, see: 
-
-- [Top GitHub repositories with XQuery](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults)
-- [Recent XQuery questions on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
+Also, search [repositories with XQuery](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults) on GitHub and [questions about XQuery](http://stackoverflow.com/questions/tagged/xquery) on Stack Overflow.
 
 ## These sites run on XQuery-powered servers
 
