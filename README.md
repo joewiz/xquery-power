@@ -2,6 +2,11 @@
 
 Let's show the world where XQuery is used. Pull requests welcome. Please keep the lists alphabetized. 
 
+Also, see: 
+
+- [Top GitHub repositories with XQuery](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults)
+- [Recent XQuery questions on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
+
 ## These sites run on XQuery-powered servers
 
 - [Carl-Maria-von-Weber-Gesamtausgabe](http://weber-gesamtausgabe.de/): The digital edition of the collected works of Carl Maria von Weber (1786–1826) encoded in TEI-XML. Runs on eXist.
