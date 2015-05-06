@@ -8,6 +8,7 @@ Also, search [repositories with XQuery](https://github.com/search?utf8=%E2%9C%93
 
 - [Carl-Maria-von-Weber-Gesamtausgabe](http://weber-gesamtausgabe.de/): The digital edition of the collected works of Carl Maria von Weber (1786–1826) encoded in TEI-XML. Runs on eXist.
 - [eXist-db homepage](http://exist-db.org/): The official homepage for eXist, an open source NoSQL database and application platform built on XML technology; the site includes documentation and demos. Runs on eXist.
+- [MarkLogic Developer site](http://developer.marklogic.com): The developer site for MarkLogic; has documentation, tech blog, tutorials, and other resources. Built on MarkLogic. 
 - [MarkMail](http://markmail.org/): MarkMail is a free public mailing list archive service that emphasizes interactivity and search analytics. Runs on MarkLogic.
 - [Office of the Historian](https://history.state.gov): The Office of the Historian offers over 100,000 archival documents from the official documentary history of U.S. foreign relations, as well as other resources and datasets on the history of U.S. foreign relations. Runs on eXist.
 - [Roma](http://www.tei-c.org/Roma/): TEI Roma is a tool for working with TEI customizations. Runs on eXist.
