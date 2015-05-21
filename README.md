@@ -1,8 +1,8 @@
 # XQuery Power: A list of resources built on or with XQuery
 
-Let's show the world where XQuery is used. Pull requests welcome. Please keep the lists alphabetized. 
+Let's show the world where XQuery is used. Pull requests welcome. Please keep the lists alphabetized. Talk about [`#xquerypower`](https://twitter.com/search?q=xquerypower) on Twitter.
 
-Also, view [repositories with XQuery on GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults) and [questions about XQuery on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
+Also, check out this [list of resources for learning XQuery](https://github.com/joewiz/learnxquery), [repositories with XQuery on GitHub](https://github.com/search?utf8=%E2%9C%93&q=language%3AXQuery&type=Repositories&ref=searchresults), and [questions about XQuery on Stack Overflow](http://stackoverflow.com/questions/tagged/xquery).
 
 ## These sites run on XQuery-powered servers
 
