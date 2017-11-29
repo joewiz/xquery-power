@@ -20,7 +20,7 @@ Also, check out this [list of resources for learning XQuery](https://github.com/
 - [SMuFL-Browser](http://edirom.de/smufl-browser/index.html): The SMuFL-Browser is a simple web service providing access to the _Standard Music Font Layout specification_ in the context of the  _Text Encoding Initiative_. Runs on eXist. Docs: http://edirom.de/smufl-browser/about.html. Source: https://github.com/Edirom/SMuFL-Browser.
 - [The Syriac Gazetteer](http://syriaca.org/geo/index.html): The Syriac Gazetteer is a geographical reference work of Syriaca.org for places relevant to Syriac studies. Runs on eXist. Source: https://github.com/srophe/srophe-eXist-app.
 - [Theological Commons](http://commons.ptsem.edu/): The Theological Commons is a digital library of over 80,000 resources on theology and religion. Runs on MarkLogic.
-- [Trees of Bristol](http://bristoltrees.space/Tree/): An interactive guide to the trees in Bristol and surrounds. Runs on eXist. Source: https://github.com/KitWallace/treemap.
+- [Trees of Bristol](http://bristoltrees.space/Tree/): An interactive guide to the trees in Bristol and surrounds. Converts source data from text to XML, allows browsing and mapping the data using the Google Maps API. Runs on eXist. Source: https://github.com/KitWallace/treemap.
 - [Union des Artisans du Patrimoine de Belgique](http://www.uniondesartisansdupatrimoine.be) a Craftmen's association in Belgium public web site runs on eXist-DB (since April 2011)
 - [University of Vermont Center for Digital Initiatives](http://cdi.uvm.edu/collections/index.xql): makes unique research collections available online from UVM collections. Runs on eXist.
 
