@@ -32,3 +32,7 @@ For example, in the preparation of materials...
 - [MARC to BIBFRAME Transformation Service](http://bibframe.org/tools/transform/start): Transforms MARCXML to BIBFRAME representation. Source: https://github.com/lcnetdev/marc2bibframe
 - [Tibetan Buddhist Resource Center](http://about.tbrc.org/) The Tibetan Buddhist Resource Center (TBRC) holds the world’s single largest collec‐ tion of Tibetan texts—nearly 10 million scanned pages and over 11,000 Unicode Tibe‐ tan texts. TBRC.org provides online access to over 4,000 users via an Ajax client written in Google Web Toolkit as a front-end to the eXist-db.
 - [ScoutDragon.com](http://www.scoutdragon.com) Original English content, data, and research on baseball players in Asia.
+
+## These open source software projects run on XQuery-powered servers
+
+- [XQuery Content Management Library (XCM)](https://github.com/ssire/xquery-cm-lib) is a project to develop content management applications with features such as workflow management, semi-structured content editing, form generation, and e-mail output engine. It works with eXist-db. The [case tracker pilot](https://github.com/ssire/case-tracker-pilote) project is a demonstration application built with the XCM library which can be used as a sacffold to create new applications.
