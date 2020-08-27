@@ -37,7 +37,6 @@ For example, in the preparation of materials...
 ## These software products are powered by XQuery Processors
 
 - [easyDITA](https://easydita.com/). easyDITA is the world’s only DITA CMS with a fully-collaborative XML editor, providing everything you need to create, manage, review, and publish all of your content to any channel, in any language, for any audience. Embeds eXist-db to provide XML storage and querying.
-
 - [LegisPro](https://xcential.com/legispro-xml-tech/). LegisPro, is a powerful, state-of-the art, web-enabled software platform for legislative and regulatory drafting. This fully configurable technology is setting the standard for a modern and efficient rulemaking work process by combining the ease of using a word processor with the sophistication of an XML editor. Embeds eXist-db to provide XML storage and querying.
 
 ## These open source software projects run on XQuery-powered servers
