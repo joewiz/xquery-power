@@ -12,6 +12,7 @@ Also, check out this [list of resources for learning XQuery](https://github.com/
 - [DocEng 2015](http://www.doceng2015.org/) The web site of 15th ACM SIGWEB International Symposium on Document Engineering runs on eXist-DB
 - [eXist-db homepage](http://exist-db.org/): The official homepage for eXist, an open source NoSQL database and application platform built on XML technology; the site includes documentation and demos. Runs on eXist.
 - [EXQuery](http://www.exquery.org): The EXQuery project creates standards for portable XQuery coding. The website is written in XQuery and runs on eXist.
+- [legislation.gov.uk](https://www.legislation.gov.uk): The official home of UK legislation. The website is partly delivered using MarkLogic.
 - [MarkLogic Developer site](http://developer.marklogic.com): The developer site for MarkLogic; has documentation, tech blog, tutorials, and other resources. Built on MarkLogic. 
 - [MarkMail](http://markmail.org/): MarkMail is a free public mailing list archive service that emphasizes interactivity and search analytics. Runs on MarkLogic.
 - [Office of the Historian](https://history.state.gov): The Office of the Historian offers over 200,000 archival documents from the official documentary history of U.S. foreign relations, as well as other resources and datasets on the history of U.S. foreign relations. Runs on eXist. Source: https://github.com/HistoryAtState/hsg-project.
@@ -32,6 +33,12 @@ For example, in the preparation of materials...
 - [MARC to BIBFRAME Transformation Service](http://bibframe.org/tools/transform/start): Transforms MARCXML to BIBFRAME representation. Source: https://github.com/lcnetdev/marc2bibframe
 - [Tibetan Buddhist Resource Center](http://about.tbrc.org/) The Tibetan Buddhist Resource Center (TBRC) holds the world’s single largest collec‐ tion of Tibetan texts—nearly 10 million scanned pages and over 11,000 Unicode Tibe‐ tan texts. TBRC.org provides online access to over 4,000 users via an Ajax client written in Google Web Toolkit as a front-end to the eXist-db.
 - [ScoutDragon.com](http://www.scoutdragon.com) Original English content, data, and research on baseball players in Asia.
+
+## These software products are powered by XQuery Processors
+
+- [easyDITA](https://easydita.com/). easyDITA is the world’s only DITA CMS with a fully-collaborative XML editor, providing everything you need to create, manage, review, and publish all of your content to any channel, in any language, for any audience. Embeds eXist-db to provide XML storage and querying.
+
+- [LegisPro](https://xcential.com/legispro-xml-tech/). LegisPro, is a powerful, state-of-the art, web-enabled software platform for legislative and regulatory drafting. This fully configurable technology is setting the standard for a modern and efficient rulemaking work process by combining the ease of using a word processor with the sophistication of an XML editor. Embeds eXist-db to provide XML storage and querying.
 
 ## These open source software projects run on XQuery-powered servers
 
